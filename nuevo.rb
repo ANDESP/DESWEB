@@ -1,0 +1,1 @@
+puts "oreiuq eT".reverse
